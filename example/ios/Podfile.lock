@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - ios_volume_checker (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - ios_volume_checker (from `.symlinks/plugins/ios_volume_checker/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  ios_volume_checker:
+    :path: ".symlinks/plugins/ios_volume_checker/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  ios_volume_checker: 7a7dbb815ddd372f71e83dba6e8e5dcbab0a1292
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
